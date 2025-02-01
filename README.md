@@ -1,4 +1,4 @@
-# Customer-Segmentation
+# Customer-Segmentation with RFM Model
 
 ![image alt](https://github.com/bhaskarkumar222/Customer-Segmentation/blob/967b7f9118c80ad0cb5e80ed27a4f93b579bbd5e/Visualization/Customer%20Segmentation.png)
 
@@ -39,3 +39,29 @@ We use a method called RFM Analysis, which stands for Recency, Frequency, and Mo
   
 **Process:**
 Customers are segmented into 11 different groups based on their purchase history. This segmentation allows us to identify which groups are most valuable and should be targeted to boost sales revenue.
+
+ <table>
+  <tr>
+    <td><b>Old Customers by Age Distribution</b></td>
+    <td><b>New Customers by Age Distribution</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bhaskarkumar222/Customer-Segmentation/blob/29627a1c70e5e1cd5779a77d403caf3f6a8b1980/Visualization/New%20Customers%20-%20Wealth%20Segmentation%20by%20Age%20Group.jpg" height="400" align="middle" ></td>
+    <td><img src="https://github.com/bhaskarkumar222/Customer-Segmentation/blob/29627a1c70e5e1cd5779a77d403caf3f6a8b1980/Visualization/old%20Customers%20-%20Wealth%20Segmentation%20by%20Age%20Group.jpg" height="400" align="middle"></td>
+  </tr>
+  </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
