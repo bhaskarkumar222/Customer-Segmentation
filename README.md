@@ -1,4 +1,7 @@
 # Customer-Segmentation
+
+![image alt](https://github.com/bhaskarkumar222/Customer-Segmentation/blob/967b7f9118c80ad0cb5e80ed27a4f93b579bbd5e/Visualization/Customer%20Segmentation.png)
+
 ## Goal of the project 
 The goal is to help the business understand its customers better and create effective engagement strategies based on their behaviour, ultimately boosting sales revenue. By using RFM (Recency, Frequency, Monetary) analysis to segment customers into 11 groups based on their purchase history
 
