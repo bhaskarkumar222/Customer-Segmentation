@@ -46,8 +46,8 @@ Customers are segmented into 11 different groups based on their purchase history
     <td><b>New Customers by Age Distribution</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/bhaskarkumar222/Customer-Segmentation/blob/29627a1c70e5e1cd5779a77d403caf3f6a8b1980/Visualization/New%20Customers%20-%20Wealth%20Segmentation%20by%20Age%20Group.jpg" height="400" align="middle" ></td>
-    <td><img src="https://github.com/bhaskarkumar222/Customer-Segmentation/blob/29627a1c70e5e1cd5779a77d403caf3f6a8b1980/Visualization/old%20Customers%20-%20Wealth%20Segmentation%20by%20Age%20Group.jpg" height="400" align="middle"></td>
+    <td><img src="https://github.com/bhaskarkumar222/Customer-Segmentation/blob/b522906c4e52857ad9263298b71ccda80c713875/Visualization/New%20Customers%20-%20Wealth%20Segmentation%20by%20Age%20Group.jpg" height="400" align="middle" ></td>
+    <td><img src="https://github.com/bhaskarkumar222/Customer-Segmentation/blob/b522906c4e52857ad9263298b71ccda80c713875/Visualization/old%20Customers%20-%20Wealth%20Segmentation%20by%20Age%20Group.jpg" height="400" align="middle"></td>
   </tr>
   </table>
 
